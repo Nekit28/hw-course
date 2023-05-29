@@ -4,7 +4,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("задача 1");
+        System.out.println("Задача 1");
         String a = "asdfgh";
         int mid = a.length()/2;
         String a1 = a.substring(0, mid);
